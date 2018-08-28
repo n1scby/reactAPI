@@ -1,0 +1,25 @@
+#search-label {
+    padding: 1rem;
+}
+
+#search-button {
+    margin-left: 1rem;
+    padding: .5rem;
+    background-color: black;
+    color: white;
+}
+
+#search-button:hover {
+    background-color: orange;
+    
+}
+
+#search-input {
+    padding: .5rem;
+}
+
+#search-div {
+    margin-bottom: 2rem;
+}
+
+
